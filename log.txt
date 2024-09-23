@@ -1,0 +1,113 @@
+2024-09-23T21:06:46.197+08:00  INFO 14452 --- [IZenoAssessment] [main] com.izeno.demo.ApplicationTests          : Starting ApplicationTests using Java 17.0.10 with PID 14452 (started by cw in C:\Users\cwei_\OneDrive\Desktop\assessment\IZeno)
+2024-09-23T21:06:46.203+08:00  INFO 14452 --- [IZenoAssessment] [main] com.izeno.demo.ApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2024-09-23T21:06:48.953+08:00  INFO 14452 --- [IZenoAssessment] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-23T21:06:49.200+08:00  INFO 14452 --- [IZenoAssessment] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 214 ms. Found 3 JPA repository interfaces.
+2024-09-23T21:06:52.423+08:00  INFO 14452 --- [IZenoAssessment] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-23T21:06:52.499+08:00  INFO 14452 --- [IZenoAssessment] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-09-23T21:06:53.339+08:00  INFO 14452 --- [IZenoAssessment] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: e32c9fce-1a7e-46b9-8295-d05f1e13d782
+2024-09-23T21:06:53.343+08:00  INFO 14452 --- [IZenoAssessment] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-09-23T21:06:56.861+08:00  INFO 14452 --- [IZenoAssessment] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-23T21:06:57.804+08:00  WARN 14452 --- [IZenoAssessment] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-23T21:06:59.371+08:00  INFO 14452 --- [IZenoAssessment] [main] com.izeno.demo.ApplicationTests          : Started ApplicationTests in 13.911 seconds (process running for 15.878)
+2024-09-23T21:07:00.839+08:00  INFO 14452 --- [IZenoAssessment] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-23T21:07:00.844+08:00  INFO 14452 --- [IZenoAssessment] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-09-23T21:07:00.853+08:00  INFO 14452 --- [IZenoAssessment] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-09-23T21:07:38.204+08:00  INFO 6440 --- [IZenoAssessment] [main] com.izeno.demo.Application               : Starting Application using Java 17.0.10 with PID 6440 (C:\Users\cwei_\OneDrive\Desktop\assessment\IZeno\target\classes started by cw in C:\Users\cwei_\OneDrive\Desktop\assessment\IZeno)
+2024-09-23T21:07:38.209+08:00  INFO 6440 --- [IZenoAssessment] [main] com.izeno.demo.Application               : No active profile set, falling back to 1 default profile: "default"
+2024-09-23T21:07:40.157+08:00  INFO 6440 --- [IZenoAssessment] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-23T21:07:40.296+08:00  INFO 6440 --- [IZenoAssessment] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 123 ms. Found 3 JPA repository interfaces.
+2024-09-23T21:07:41.813+08:00  INFO 6440 --- [IZenoAssessment] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-23T21:07:41.832+08:00  INFO 6440 --- [IZenoAssessment] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-23T21:07:41.833+08:00  INFO 6440 --- [IZenoAssessment] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-09-23T21:07:42.003+08:00  INFO 6440 --- [IZenoAssessment] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-23T21:07:42.003+08:00  INFO 6440 --- [IZenoAssessment] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3696 ms
+2024-09-23T21:07:43.430+08:00  INFO 6440 --- [IZenoAssessment] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-23T21:07:43.506+08:00  INFO 6440 --- [IZenoAssessment] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-09-23T21:07:43.996+08:00  INFO 6440 --- [IZenoAssessment] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 48ac1636-faaa-4f16-aa57-affbb9395fcd
+2024-09-23T21:07:43.999+08:00  INFO 6440 --- [IZenoAssessment] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-09-23T21:07:45.999+08:00  INFO 6440 --- [IZenoAssessment] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-23T21:07:46.956+08:00  WARN 6440 --- [IZenoAssessment] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-23T21:07:48.231+08:00  INFO 6440 --- [IZenoAssessment] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-23T21:07:48.251+08:00  INFO 6440 --- [IZenoAssessment] [main] com.izeno.demo.Application               : Started Application in 10.829 seconds (process running for 11.85)
+2024-09-23T21:08:08.799+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-23T21:08:08.800+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-23T21:08:08.801+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-09-23T21:08:12.730+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-2] c.i.demo.filters.RateLimitControlFilter  : RateLimitControlFilter::doFilter
+2024-09-23T21:08:14.042+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-2] c.i.demo.filters.RateLimitControlFilter  : uri ==== [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:14.100+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-2] c.i.demo.filters.RateLimitControlFilter  : Requests for [0:0:0:0:0:0:0:1:/api/v1/person/getPerson/10006]: 0
+2024-09-23T21:08:16.821+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-2] com.izeno.demo.filters.LoggingFilter     : 
+REQUESTURI=GET; 
+METHOD=http://localhost:8080/api/v1/person/getPerson/10006; 
+REQUEST =; 
+RESPONSE CODE=200; 
+RESPONSE={"response":"00","desc":"Request succeed.","name":"josh1","email":"josh@gmail.com","phoneNo":"123456789","city":"Kuala Lumpur"}; 
+
+
+2024-09-23T21:08:36.235+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-3] c.i.demo.filters.RateLimitControlFilter  : RateLimitControlFilter::doFilter
+2024-09-23T21:08:40.188+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-3] c.i.demo.filters.RateLimitControlFilter  : uri ==== [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:40.190+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-3] c.i.demo.filters.RateLimitControlFilter  : Requests for [0:0:0:0:0:0:0:1:/api/v1/person/getPerson/10006]: 1
+2024-09-23T21:08:40.217+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-3] com.izeno.demo.filters.LoggingFilter     : 
+REQUESTURI=GET; 
+METHOD=http://localhost:8080/api/v1/person/getPerson/10006; 
+REQUEST =; 
+RESPONSE CODE=200; 
+RESPONSE={"response":"00","desc":"Request succeed.","name":"josh1","email":"josh@gmail.com","phoneNo":"123456789","city":"Kuala Lumpur"}; 
+
+
+2024-09-23T21:08:47.267+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-4] c.i.demo.filters.RateLimitControlFilter  : RateLimitControlFilter::doFilter
+2024-09-23T21:08:47.267+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-4] c.i.demo.filters.RateLimitControlFilter  : uri ==== [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:47.268+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-4] c.i.demo.filters.RateLimitControlFilter  : Requests for [0:0:0:0:0:0:0:1:/api/v1/person/getPerson/10006]: 2
+2024-09-23T21:08:47.279+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-4] com.izeno.demo.filters.LoggingFilter     : 
+REQUESTURI=GET; 
+METHOD=http://localhost:8080/api/v1/person/getPerson/10006; 
+REQUEST =; 
+RESPONSE CODE=200; 
+RESPONSE={"response":"00","desc":"Request succeed.","name":"josh1","email":"josh@gmail.com","phoneNo":"123456789","city":"Kuala Lumpur"}; 
+
+
+2024-09-23T21:08:48.072+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-5] c.i.demo.filters.RateLimitControlFilter  : RateLimitControlFilter::doFilter
+2024-09-23T21:08:48.072+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-5] c.i.demo.filters.RateLimitControlFilter  : uri ==== [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:48.072+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-5] c.i.demo.filters.RateLimitControlFilter  : Requests for [0:0:0:0:0:0:0:1:/api/v1/person/getPerson/10006]: 3
+2024-09-23T21:08:48.080+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-5] com.izeno.demo.filters.LoggingFilter     : 
+REQUESTURI=GET; 
+METHOD=http://localhost:8080/api/v1/person/getPerson/10006; 
+REQUEST =; 
+RESPONSE CODE=200; 
+RESPONSE={"response":"00","desc":"Request succeed.","name":"josh1","email":"josh@gmail.com","phoneNo":"123456789","city":"Kuala Lumpur"}; 
+
+
+2024-09-23T21:08:48.862+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-6] c.i.demo.filters.RateLimitControlFilter  : RateLimitControlFilter::doFilter
+2024-09-23T21:08:48.862+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-6] c.i.demo.filters.RateLimitControlFilter  : uri ==== [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:48.862+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-6] c.i.demo.filters.RateLimitControlFilter  : Requests for [0:0:0:0:0:0:0:1:/api/v1/person/getPerson/10006]: 4
+2024-09-23T21:08:48.869+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-6] com.izeno.demo.filters.LoggingFilter     : 
+REQUESTURI=GET; 
+METHOD=http://localhost:8080/api/v1/person/getPerson/10006; 
+REQUEST =; 
+RESPONSE CODE=200; 
+RESPONSE={"response":"00","desc":"Request succeed.","name":"josh1","email":"josh@gmail.com","phoneNo":"123456789","city":"Kuala Lumpur"}; 
+
+
+2024-09-23T21:08:49.546+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-7] c.i.demo.filters.RateLimitControlFilter  : RateLimitControlFilter::doFilter
+2024-09-23T21:08:49.546+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-7] c.i.demo.filters.RateLimitControlFilter  : uri ==== [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:49.546+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-7] c.i.demo.filters.RateLimitControlFilter  : Requests for [0:0:0:0:0:0:0:1:/api/v1/person/getPerson/10006]: 5
+2024-09-23T21:08:49.546+08:00  WARN 6440 --- [IZenoAssessment] [http-nio-8080-exec-7] c.i.demo.filters.RateLimitControlFilter  : Rate limit exceeded for IP [0:0:0:0:0:0:0:1] and API [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:49.591+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-7] com.izeno.demo.filters.LoggingFilter     : 
+REQUESTURI=GET; 
+METHOD=http://localhost:8080/api/v1/person/getPerson/10006; 
+REQUEST =; 
+RESPONSE CODE=429; 
+RESPONSE={"response":"429","desc":"Too many requests for this API - please try again later."}; 
+
+
+2024-09-23T21:08:50.252+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-8] c.i.demo.filters.RateLimitControlFilter  : RateLimitControlFilter::doFilter
+2024-09-23T21:08:50.252+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-8] c.i.demo.filters.RateLimitControlFilter  : uri ==== [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:50.254+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-8] c.i.demo.filters.RateLimitControlFilter  : Requests for [0:0:0:0:0:0:0:1:/api/v1/person/getPerson/10006]: 5
+2024-09-23T21:08:50.254+08:00  WARN 6440 --- [IZenoAssessment] [http-nio-8080-exec-8] c.i.demo.filters.RateLimitControlFilter  : Rate limit exceeded for IP [0:0:0:0:0:0:0:1] and API [/api/v1/person/getPerson/10006]
+2024-09-23T21:08:50.255+08:00  INFO 6440 --- [IZenoAssessment] [http-nio-8080-exec-8] com.izeno.demo.filters.LoggingFilter     : 
+REQUESTURI=GET; 
+METHOD=http://localhost:8080/api/v1/person/getPerson/10006; 
+REQUEST =; 
+RESPONSE CODE=429; 
+RESPONSE={"response":"429","desc":"Too many requests for this API - please try again later."}; 
+
+
